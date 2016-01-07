@@ -1,0 +1,13 @@
+.reveal .slides
+{
+	margin-top: -320px;
+}
+
+.reveal h3 {
+    margin: 0 0 20px 0;
+}
+
+.reveal p, .reveal li
+{
+	font-size: 0.8em;
+}
